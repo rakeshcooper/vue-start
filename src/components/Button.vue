@@ -13,7 +13,7 @@ export default {
         onClick(){
             console.log("Clicked")
         }
-    }
+    },
 }
 </script>
 
